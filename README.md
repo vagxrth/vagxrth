@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vagarth</h1>
 <h3 align="center">Tech Explorer</h3>
 
-- 🌱 I’m currently learning **Full Stack Development, iOS Application Development and Web3.**
+- 🌱 I’m currently working on **Full Stack Development, iOS Application Development and Web3.**
+
+- 👨‍💻 All of my projects are available at [vagarth.in](vagarth.in)
 
 - 📫 How to reach me **vagarth419@gmail.com**
+
+- ⚡ Fun fact **I think I'm the Best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
