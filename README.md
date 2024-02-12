@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vagarth</h1>
 <h3 align="center">Tech Explorer</h3>
 
-- 🌱 I’m currently working on **Full Stack Development, iOS Application Development and Web3.**
+- 🌱 I’m currently working on **Full Stack Development, iOS Application Development and Blockchain Development.**
 
 - 👨‍💻 All of my projects are available at [vagarth.in](vagarth.in)
 
