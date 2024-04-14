@@ -1,4 +1,4 @@
-<h4 align="left">🔭 I’m working on Full Stack Web, iOS Applications and Blockchain Development.<br>🌱 I’m currently learning Rust, Generative AI and DevOps.<br>🤝 Connect with me vagarth419@gmail.com<br>💬 All my projects are available at www.vagarth.in<br>⚡ My Leetcode Profile https://leetcode.com/vagarth/</h4>
+<h4 align="left">🔭 I’m working on Full Stack Web, iOS Applications and Blockchain Development.<br>🌱 I’m currently learning Rust, Generative AI and DevOps.<br>🤝 Connect: vagarth419@gmail.com<br>💬 Portfolio: www.vagarth.in<br>⚡ Leetcode: https://leetcode.com/vagarth/</h4>
 
 ###
 
