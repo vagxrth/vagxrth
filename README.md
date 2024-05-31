@@ -1,4 +1,4 @@
-<h4 align="left">🔭 I’m working on Full Stack Web, iOS Applications and Blockchain Development.<br>🌱 I’m currently learning Rust, Generative AI and DevOps.<br>🤝 Connect: vagarth419@gmail.com<br>💬 Portfolio: www.vagarth.in<br>⚡ Leetcode: https://leetcode.com/vagarth/</h4>
+<h4 align="left">🔭 I’m working on Full Stack Web, iOS Applications and Blockchain Development.<br>🌱 I’m currently learning Rust, Generative AI and DevOps.<br>🤝 Connect with me vagarth419@gmail.com<br>💬 All my projects are available at www.vagarth.in<br>⚡ My Leetcode Profile https://leetcode.com/vagarth/</h4>
 
 ###
 
@@ -82,6 +82,16 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sentry" height="30" alt="sentry logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unrealengine logo"  />
 </div>
 
 ###
@@ -96,14 +106,14 @@
   <a href="https://dev.to/vagarth" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="47" height="35" alt="devto logo"  />
   </a>
-  <a href="https://medium.com/@vagarth" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="47" height="35" alt="medium logo"  />
-  </a>
   <a href="https://stackoverflow.com/users/22130489/vagarth" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
   </a>
-  <a href="https://twitter.com/home?lang=en" target="_blank">
+  <a href="https://twitter.com/vagxrth" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
 
