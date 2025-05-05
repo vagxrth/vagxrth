@@ -14,10 +14,6 @@
 
 ###
 
-<img src="https://visitcount.itsvg.in/api?id=vagxrth&icon=0&color=0" />
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
