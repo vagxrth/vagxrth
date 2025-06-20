@@ -1,7 +1,3 @@
-<h4 align="left">🔭 I’m working on Full Stack Web, iOS Applications and Blockchain Development.<br>🌱 I’m currently learning Rust, Generative AI and DevOps.<br>🤝 Connect with me vagarth419@gmail.com<br>💬 All my projects are available at www.vagarth.in</h4>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vagxrth&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_blue&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=vagxrth&locale=en&mode=daily&theme=shadow_blue&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
