@@ -92,6 +92,12 @@
 
 ###
 
+![:vagxrth](https://count.getloli.com/@:vagxrth?theme=booru-lewd)
+
+###
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/vagxrth/vagxrth/output/snake.svg" alt="Snake animation" />
