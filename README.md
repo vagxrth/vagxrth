@@ -74,6 +74,32 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sentry" height="30" alt="sentry logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bun" height="30" alt="bun logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="gcp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="30" alt="pnpm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="30" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tauri" height="30" alt="tauri logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="30" alt="terraform logo"  />
 </div>
 
 ###
